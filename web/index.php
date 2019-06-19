@@ -11,7 +11,7 @@
             }
             @media screen and (max-width: 768px) {
                 .rh-caption {
-                    font-size: 3em;
+                    font-size: 5em;
                 }
             }
         </style>
