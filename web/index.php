@@ -6,12 +6,12 @@
         <style>
             @media screen and (min-width: 768px) {
                 .rh-caption {
-                    font-size: 2em;
+                    font-size: 20px;
                 }
             }
             @media screen and (max-width: 768px) {
                 .rh-caption {
-                    font-size: 5em;
+                    font-size: 30px;
                 }
             }
         </style>
